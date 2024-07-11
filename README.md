@@ -1,6 +1,7 @@
 ![MasterHead](https://github.com/majid0110/majid0110/blob/main/Cover.gif)
 <h1 align="center">Hi 👋, I'm Majid Khan</h1>
 <h3 align="center">A passionate Software Engineer and a full stack developer from Pakistan</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=majid0110&label=Profile%20views&color=0e75b6&style=flat" alt="majidkhan" /> </p>
 <img align="right" alt="Coding" width="300" src="https://github.com/majid0110/majid0110/blob/main/computer.gif">
 <p align="left"> <a href="https://twitter.com/majid0110" target="blank"><img src="https://img.shields.io/twitter/follow/majid0110?logo=twitter&style=for-the-badge" alt="majid0110" /></a> </p>
 
