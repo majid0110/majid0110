@@ -83,9 +83,8 @@ I'm an **AI/ML researcher and full-stack engineer** on a mission to transform he
 
 <div align="center">
   
-[![Majid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=majid0110&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&icon_color=0ea5e9&count_private=true)](https://github.com/majid0110)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=majid0110&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff)](https://github.com/majid0110)
+[![Majid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=majid0110&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&icon_color=0ea5e9&count_private=true&cache_seconds=86400)](https://github.com/majid0110)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=majid0110&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&cache_seconds=86400)](https://github.com/majid0110)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=majid0110&theme=radical&hide_border=true&background=0d1117&stroke=0ea5e9&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9)](https://github.com/majid0110)
 
