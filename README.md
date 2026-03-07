@@ -78,50 +78,6 @@ I'm an **AI/ML researcher and full-stack engineer** on a mission to transform he
 
 ---
 
-## 📚 Featured Projects
-
-### 🎓 Master's Thesis: GAN for Healthcare Data Synthesis
-**Generative Adversarial Networks for High-Fidelity Physiological Signal Synthesis**
-- Novel GAN architecture with Conv1DTranspose generators
-- InceptionTime discriminator for temporal data
-- Privacy-preserving synthetic healthcare data generation
-- **Tech:** PyTorch, Python, Deep Learning, Healthcare AI
-
-### 🏥 Hospital Management Dashboard
-**Full-Stack Web Application**
-- Patient records, appointments, and billing management
-- Responsive design with real-time updates
-- **Tech:** PHP (CodeIgniter 4), MySQL, JavaScript, Angular
-
-### 📊 Real-Time Tweet Analysis & Sentiment Analysis
-**Data Processing & NLP Application**
-- Twitter API integration with live data capture
-- Keyword and user-based filtering
-- Sentiment analysis and visualization
-- **Tech:** Python, Twitter API, Pandas, NLP
-
-### 🌊 Apache Kafka Producer & Consumer System
-**High-Performance Message Streaming**
-- Real-time data pipeline implementation
-- Producer-consumer architecture
-- Scalable streaming data processing
-- **Tech:** Python, Kafka, Big Data
-
-### 💆 Car Washing Service Platform
-**Full-Stack E-Commerce Application**
-- Online booking system with payment integration
-- Admin dashboard and management tools
-- Mobile-responsive design
-- **Tech:** Angular, Firebase, JavaScript, REST APIs
-
-### ⛳ ProViewGolf RESTful API
-**Golf Course Management System**
-- Player scoring and statistics tracking
-- Course data management
-- Comprehensive API endpoints
-- **Tech:** PHP (CodeIgniter), PostgreSQL, REST APIs
-
----
 
 ## 📊 GitHub Stats
 
@@ -143,20 +99,6 @@ I'm an **AI/ML researcher and full-stack engineer** on a mission to transform he
 - 🎓 **Study:** Master's in Data Science @ NUST MISIS, focusing on advanced ML and AI ethics
 - 🚀 **Building:** Scalable ML pipelines and full-stack applications
 - 🤝 **Collaborating:** On research partnerships and innovative AI projects
-
----
-
-## 💡 What I'm Learning
-
-```python
-# Always expanding my knowledge in:
-current_interests = {
-    'emerging_ai': ['Large Language Models', 'Transformer Architectures', 'Diffusion Models'],
-    'healthcare_tech': ['Medical Imaging AI', 'Clinical Data Analysis', 'Privacy-Preserving ML'],
-    'advanced_ml': ['Few-Shot Learning', 'Meta-Learning', 'Federated Learning'],
-    'cloud_computing': ['Kubernetes', 'Cloud Architecture', 'MLOps']
-}
-```
 
 ---
 
